@@ -1,0 +1,6 @@
+.# vscode related
+.vscode/
+
+# notebook related
+.ipynb_checkpoints
+
